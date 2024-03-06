@@ -1,6 +1,8 @@
 debian-on-termux
 ================
 
+Because on Android 11 termux has some issues with networking on rooted devices I've patched `debian_on_termux_10.sh` for use in chroot & we still need to use proot or any other bridges for networking..
+
 what is it
 ----------
 
